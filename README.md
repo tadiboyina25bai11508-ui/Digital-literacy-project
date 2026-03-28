@@ -30,9 +30,10 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** [Add your GitHub profile link here]
-- **LinkedIn Profile:** [Add your LinkedIn profile link here]
-- **Google Form Link:** [Paste your Google Form link here]
+- **GitHub Profile:** https://github.com/tadiboyina25bai11508-ui/siva-repo/blob/main/README.md
+- **LinkedIn Profile:** ![WhatsApp Image 2026-03-28 at 3 55 14 PM](https://github.com/user-attachments/assets/b99a4a97-9f8e-47dd-b6c7-9181637577f0)
+
+- **Google Form Link:** 
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic
