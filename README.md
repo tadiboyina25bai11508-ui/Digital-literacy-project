@@ -31,9 +31,9 @@ Prepared a case study on cybercrime and created a prevention checklist for stude
 
 ## Useful Links
 - **GitHub Profile:** https://github.com/tadiboyina25bai11508-ui/siva-repo/blob/main/README.md
-- **LinkedIn Profile:** ![WhatsApp Image 2026-03-28 at 3 55 14 PM](https://github.com/user-attachments/assets/b99a4a97-9f8e-47dd-b6c7-9181637577f0)
+- **LinkedIn Profile:** https://www.linkedin.com/in/tadiboyina-siva-gangadhar-rao-2a103b3bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-- **Google Form Link:** 
+- **Google Form Link:** https://docs.google.com/forms/d/1WY4-HjAzgkDhj_k22s9cfoFhLJ3ZdnJrVY9f8tZziGs/edit
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic
